@@ -1,4 +1,4 @@
-Este es un documento del curso de GIT
+Este es un documento del curso de GIT, htlml y css
 
 un curso de platzi
 
