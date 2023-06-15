@@ -3,4 +3,4 @@ Este es un documento del curso de GIT, htlml y css
 un curso de platzi
 
 tiene 15 horas el curso
-y de ellas son 6 practicas
+y de ellas son 6 practicas 
