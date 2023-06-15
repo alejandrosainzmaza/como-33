@@ -1,6 +1,10 @@
 body
 {
+<<<<<<< HEAD
     color: #blue;
+=======
+    color: #red;
+>>>>>>> mal
    text-align: center;
    font-family: "Arial";
    margin: 0; 
