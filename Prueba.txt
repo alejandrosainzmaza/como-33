@@ -2,4 +2,5 @@ Este es un documento del curso de GIT
 
 un curso de platzi
 
-tiene 16 horas el curso
+tiene 15 horas el curso
+y de ellas son 6 practicas
