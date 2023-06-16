@@ -1,15 +1,12 @@
 body
 {
-<<<<<<< HEAD
-    color: #blue;
-=======
     color: #red;
->>>>>>> mal
    text-align: center;
    font-family: "Arial";
    margin: 0; 
    padding: 0;
 }
+
 #cabecera
 {
     background: #33A;
@@ -18,6 +15,7 @@ body
     font-weight: bold;
     margin 0;
     padding: 0.5em;
+    text-align: center;
 }
 
 #cabecera #tagline
@@ -35,8 +33,8 @@ body
 #container
 {width: 70%;
     padding: 0;
-    text-align: left;
-    border: 1px solid #DDD;
+    text-align: center;
+    border: 1px solid#DDD;
     margin 0 auto;}
     
 
